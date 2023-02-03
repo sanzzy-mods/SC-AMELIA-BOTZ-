@@ -113,7 +113,7 @@ global.pgopay = '-' //Isi aja klo punya
 global.plinkaja = '-' //link aja,isi Klo punya
 global.ppulsa = '082131369002' //Isi aja klo punya 
 global.ppulsa2 = '082131369002' //Isi aja klo punya 
-global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg' //Ganti aja ini Link gambar QR
+global.psaweria = 'https://telegra.ph/file/c2675d3098e188e4c53d9.jpg' //Ganti aja ini Link gambar QR
 
 //bebas cuyyy yg atas mahh 
 
@@ -304,10 +304,10 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/57e0d97afd136caa10bce.jpg'
-global.thumb2 = 'https://telegra.ph/file/d5795084974fa38d388ce.jpg' //Main Thumbnail
-global.thumbnail = 'https://telegra.ph/file/974d7f7ff054d5491ae82.jpg'
-global.imagebot = 'https://telegra.ph/file/57e0d97afd136caa10bce.jpg'
+global.thumb = 'https://telegra.ph/file/c2675d3098e188e4c53d9.jpg'
+global.thumb2 = 'https://telegra.ph/file/c2675d3098e188e4c53d9.jpg' //Main Thumbnail
+global.thumbnail = 'https://telegra.ph/file/c2675d3098e188e4c53d9.jpg'
+global.imagebot = 'https://telegra.ph/file/c2675d3098e188e4c53d9.jpg'
 global.giflogo = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
 global.giflogo2 = 'https://telegra.ph/file/d99857d74715351bdcd6c.mp4'
 global.zykomd = 'https://telegra.ph/file/568a7bba190f80c9f5cc6.mp4'
