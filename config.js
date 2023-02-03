@@ -50,13 +50,13 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727733', 'Amelia-MD', true],
+['6282131369002', 'levi', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
-global.mods = ['6283864727733']
-global.prems = ['6283863727733']
+global.mods = ['6282131369002']
+global.prems = ['6282131369002']
 global.nomorbot = '6283863727740'
 global.nameown = 'PutraModz'
 global.nomorown = '6283863727733'
